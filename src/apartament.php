@@ -1,5 +1,5 @@
 <?php
-namespace Project\City;
+namespace Annpod\City;
 class Apartament {
 
     public $room; //кол комнат

@@ -1,6 +1,6 @@
-﻿<?php
+<?php
 
-namespace Project\City;
+namespace Annpod\City;
 
 class Street {
 

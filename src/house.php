@@ -1,5 +1,5 @@
-﻿<?php
-namespace Project\City;
+<?php
+namespace Annpod\City;
 
 class House {
 
